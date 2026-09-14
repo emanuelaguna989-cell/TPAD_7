@@ -1,0 +1,13 @@
+Producto,Cantidad,Precio Unitario,Fecha Venta,Ubicación
+A,10,100,2023-01-01,Tienda 1
+B,15,200,2023-01-01,Tienda 2
+C,8,150,2023-01-01,Tienda 1
+A,5,100,2023-02-01,Tienda 2
+B,10,200,2023-02-01,Tienda 1
+C,12,150,2023-02-01,Tienda 2
+A,20,100,2023-03-01,Tienda 1
+B,25,200,2023-03-01,Tienda 2
+C,18,150,2023-03-01,Tienda 1
+A,14,100,2023-04-01,Tienda 2
+B,7,200,2023-04-01,Tienda 1
+C,9,150,2023-04-01,Tienda 2

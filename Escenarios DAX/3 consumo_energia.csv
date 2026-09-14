@@ -1,0 +1,13 @@
+Edificio;Consumo kWh;Costo EnergÃ­a ($);Fecha de MediciÃ³n;UbicaciÃ³n
+Edificio A;1500;300;1/01/2023;Medellín
+Edificio B;2000;400;1/01/2023;Cali
+Edificio C;1800;360;1/01/2023;Bogotá
+Edificio D;1700;340;1/02/2023;Pereira
+Edificio E;2200;440;1/02/2023;Cartagena
+Edificio F;1900;380;1/02/2023;Cúcuta
+Edificio G;1600;320;1/03/2023;Neiva
+Edificio H;2100;420;1/03/2023;Sincelejo
+Edificio I;1850;370;1/03/2023;Armenia
+Edificio J;1650;330;1/04/2023;Tunja
+Edificio K;2150;430;1/04/2023;Popayán
+Edificio M;1950;390;1/04/2023;Montería
